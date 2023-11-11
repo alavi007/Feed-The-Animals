@@ -1,4 +1,4 @@
-# Feed The Animals Game (Unity 2D)
+# Feed The Animals Game (Unity 3D)
 
 ## Description
 
