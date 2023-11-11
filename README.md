@@ -12,6 +12,7 @@ The objective is to feed the animals by launching food projectiles.
 - The player's movement is limited within a boundary of both (x, z) parameters and starts with 3 lives.
 - If any of the animals cross the screen without being fed, one of the player's lives is deducted.
 - If all 3 lives are lost, the game is over.
+- Score and Lives are displayed in "Console"
 
 ## Instructions on how to play the game
 
